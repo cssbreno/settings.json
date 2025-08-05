@@ -1,0 +1,169 @@
+{
+    "sound.enable": false,
+    "window.enableSound": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "accessibility.signals.lineHasInlineSuggestion": {
+        "sound": "off"
+    },
+    "editor.inlineSuggest.enabled": true,
+    "gitHub.copilot.inlineSuggest.enable": true,
+    "gitHub.copilot.enable": true,
+    "editor.fontSize": 14,
+    "//editor.lineHeight": 1.75,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.formatOnSave": false
+    },
+    "[typescript]": {
+        "editor.formatOnSave": false
+    },
+    "[typescriptreact]": {
+        "editor.formatOnSave": false
+    },
+    "editor.fontLigatures": true,
+    "editor.smoothScrolling": true,
+    "editor.mouseWheelZoom": true,
+    "editor.cursorBlinking": "expand",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "terminal.integrated.shellIntegration.enabled": true,
+    "editor.minimap.enabled": true,
+    "editor.dragAndDrop": true,
+    "editor.tabSize": 4,
+    "editor.formatOnType": true,
+    "editor.renderWhitespace": "all",
+    "extensions.autoUpdate": true,
+    "editor.wordWrapColumn": 120,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.rulers": [
+        120
+    ],
+    "terminal.integrated.defaultProfile.windows": "Command  Prompt",
+    "[xml]": {
+        "editor.defaultFormatter": "DotJoshJohnson.xml"
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "git.autofetch": true,
+    "python.languageServer": "Pylance",
+    "security.workspace.trust.untrustedFiles": "open",
+    "tabnine.experimentalAutoImports": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "files.eol": "\n",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "window.commandCenter": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "redhat.telemetry.enabled": true,
+    "sonarlint.rules": {
+        "python:S125": {
+            "level": "off"
+        }
+    },
+    "editor.accessibilitySupport": "on",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "accessibility.signals.lineHasError": {
+        "sound": "off"
+    },
+    "accessibility.signals.lineHasBreakpoint": {
+        "sound": "off"
+    },
+    "accessibility.signals.terminalQuickFix": {
+        "sound": "off"
+    },
+    "accessibility.signals.onDebugBreak": {
+        "sound": "off"
+    },
+    "accessibility.signals.noInlayHints": {
+        "sound": "off"
+    },
+    "accessibility.signals.taskCompleted": {
+        "sound": "off"
+    },
+    "accessibility.signals.taskFailed": {
+        "sound": "off"
+    },
+    "accessibility.signals.notebookCellCompleted": {
+        "sound": "off"
+    },
+    "accessibility.signals.notebookCellFailed": {
+        "sound": "off"
+    },
+    "accessibility.signals.diffLineInserted": {
+        "sound": "off"
+    },
+    "accessibility.signals.diffLineDeleted": {
+        "sound": "off"
+    },
+    "workbench.colorCustomizations": {
+        "terminal.background": "#00000000"
+    },
+    "terminal.integrated.gpuAcceleration": "off",
+    "window.titleBarStyle": "custom",
+    "workbench.startupEditor": "none",
+    "java.debug.settings.console": "internalConsole",
+    "eslint.lintTask.enable": true,
+    "eslint.codeAction.showDocumentation": {
+        "enable": true
+    },
+    "codemetrics.nodeconfiguration.ReturnStatement": 0.1,
+    "codemetrics.nodeconfiguration.SwitchStatement": 0.1,
+    "codemetrics.nodeconfiguration.JsxSelfClosingElement": 0.1,
+    "codemetrics.nodeconfiguration.JsxElement": 0.2,
+    "codemetrics.basics.CodeLensHiddenUnder": 4,
+    "jdk.jdkhome": "c:\\Program Files\\Java\\jdk-21",
+    "workbench.colorTheme": "United Ubuntu",
+    "sqldeveloper.sqlHistory.historyLimit": 500,
+    "chat.instructionsFilesLocations": {
+        ".github/instructions": true,
+        "C:\\Users\\breno\\AppData\\Local\\Temp\\postman-collections-post-response.instructions.md": true,
+        "C:\\Users\\breno\\AppData\\Local\\Temp\\postman-collections-pre-request.instructions.md": true,
+        "C:\\Users\\breno\\AppData\\Local\\Temp\\postman-folder-post-response.instructions.md": true,
+        "C:\\Users\\breno\\AppData\\Local\\Temp\\postman-folder-pre-request.instructions.md": true,
+        "C:\\Users\\breno\\AppData\\Local\\Temp\\postman-http-request-post-response.instructions.md": true,
+        "C:\\Users\\breno\\AppData\\Local\\Temp\\postman-http-request-pre-request.instructions.md": true,
+        "/tmp/postman-collections-post-response.instructions.md": true,
+        "/tmp/postman-collections-pre-request.instructions.md": true,
+        "/tmp/postman-folder-post-response.instructions.md": true,
+        "/tmp/postman-folder-pre-request.instructions.md": true,
+        "/tmp/postman-http-request-post-response.instructions.md": true,
+        "/tmp/postman-http-request-pre-request.instructions.md": true
+    },
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-linux": "/home/cssbreno/.local/state/vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vscode-kubernetes.kubectl-path-linux": "/home/cssbreno/.local/state/vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.minikube-path-linux": "/home/cssbreno/.local/state/vs-kubernetes/tools/minikube/linux-amd64/minikube"
+    },
+    "workbench.productIconTheme": "fluent-icons",
+
+    // Configurações adicionadas do minimalSettings.json
+    "explorer.compactFolders": false,
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, package-lock*, bun.lockb",
+        "tailwind.config*": "tailwind.config*, postcss.config*",
+        ".env.local": ".env*",
+        ".env": ".env*"
+    },
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font"
+}
