@@ -155,8 +155,6 @@
         "vscode-kubernetes.minikube-path-linux": "/home/cssbreno/.local/state/vs-kubernetes/tools/minikube/linux-amd64/minikube"
     },
     "workbench.productIconTheme": "fluent-icons",
-
-    // Configurações adicionadas do minimalSettings.json
     "explorer.compactFolders": false,
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
